@@ -8,6 +8,7 @@
 
 ### Git add
 ### Git commit
+### Git commit -m 
 
 ## Просмотр истории комитов
 
